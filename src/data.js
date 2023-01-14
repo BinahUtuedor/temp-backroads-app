@@ -50,7 +50,7 @@ export const tours = [
   },
   {
     id: 2,
-    image: tour1,
+    image: tour2,
     date: 'october 1th, 2020',
     title: 'best of java',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
@@ -60,7 +60,7 @@ export const tours = [
   },
   {
     id: 3,
-    image: tour1,
+    image: tour3,
     date: 'september 15th, 2020',
     title: 'explore hong kong',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
@@ -70,7 +70,7 @@ export const tours = [
   },
   {
     id: 4,
-    image: tour1,
+    image: tour4,
     date: 'december 5th, 2019',
     title: 'kenya highlights',
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
